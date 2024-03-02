@@ -1,0 +1,32 @@
+.losmalos {
+    background-color: red;
+}
+
+.losbuenos {
+    background-color: lightblue;
+}
+
+#DV {
+    font-size: 50px;
+}
+
+#LS{
+    font-style:italic ;
+}
+
+#soldados {
+    letter-spacing: 10px;
+}
+
+#apoyo{
+    text-align: center;
+}
+
+#naves{
+    text-transform: uppercase;
+}
+
+.droides{
+    display: flex;
+    flex-direction: center;
+}

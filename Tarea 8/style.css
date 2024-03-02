@@ -1,0 +1,27 @@
+.container {
+    padding: 20px;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .col {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .styled-img {
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  .yo{
+    text-align: center;
+  }
+    

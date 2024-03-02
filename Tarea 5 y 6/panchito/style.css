@@ -1,0 +1,34 @@
+.pan1{
+    width: 500px;
+    height: 60px;
+    background-color: rgb(228, 193, 147);
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px ;
+    border-bottom: solid 10px rgb(216, 163, 94);
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin: 0px auto;
+}
+.ci{
+    width: 550px;
+    height: 75px;
+    background-color: rgb(168, 8, 8);
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    margin: 0px auto;
+}
+
+
+.pan2{
+    width: 500px;
+    height: 60px;
+    background-color: rgb(228, 193, 147);
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top: solid 10px rgb(216, 163, 94);
+    margin: 0px auto;
+}

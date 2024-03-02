@@ -1,0 +1,22 @@
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0;
+}
+
+img{
+    margin: 1,4%;
+    width: 30%;
+
+}
+
+h1{
+    margin: left;
+    font-size: 40px;
+    font-family: 'Roboto Mono', monospace;
+    text-transform: uppercase;
+    border-bottom: 2px solid red;
+    padding-bottom: 1px;
+    width: 50%;
+}
